@@ -4,7 +4,7 @@ html,body {
   margin: 0;
   padding: 0;
   min-height: 100%;
-  background-image: url(/img/roads_oftokyo.png);
+  background-image: url(img/roads_oftokyo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
